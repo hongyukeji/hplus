@@ -19,5 +19,11 @@
     "psr-4": {
       "hongyukeji\\": ""
     }
+  },
+  "repositories": {
+    "packagist": {
+      "type": "composer",
+      "url": "https://packagist.phpcomposer.com"
+    }
   }
 }
