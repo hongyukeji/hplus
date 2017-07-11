@@ -6,6 +6,9 @@ use yii\web\AssetBundle;
 
 /**
  * Main frontend application asset bundle.
+ * use hongyukeji\hplus\HplusAsset;
+ * HplusAsset::register($this);
+ * $baseUrl = $this->assetBundles[HplusAsset::className()]->baseUrl;
  */
 class HplusAsset extends AssetBundle
 {
