@@ -1,6 +1,6 @@
 <?php
 
-namespace hongyukeji\hplus;
+namespace hongyukeji\templates;
 
 use yii\web\AssetBundle;
 
