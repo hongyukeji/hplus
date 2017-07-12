@@ -2,7 +2,7 @@
   "name": "hongyukeji/hplus",
   "description": "HongYuKeJi Hplus Html5",
   "keywords": ["hongyu","hongyukeji","hplus"],
-  "type": "yii2-extension",
+  "type": "library",
   "license": "MIT",
   "authors": [
     {
