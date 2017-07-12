@@ -12,7 +12,7 @@ use yii\web\AssetBundle;
  */
 class HplusAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/hongyukeji/ehplus/static/';
+    public $sourcePath = '@vendor/hongyukeji/hplus/static/';
     public $css = [
         'css/bootstrap.min14ed.css?v=3.3.6',
         'css/font-awesome.min93e3.css?v=4.4.0',
