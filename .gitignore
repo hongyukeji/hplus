@@ -1,0 +1,5 @@
+/node_modules
+/vendor
+/.idea
+/__MACOSX
+.DS_Store
